@@ -1,0 +1,81 @@
+C:\Users\User\source\repos\ERGASIA\ERGASIA\bin\Debug\ERGASIA.exe.config
+C:\Users\User\source\repos\ERGASIA\ERGASIA\bin\Debug\ERGASIA.exe
+C:\Users\User\source\repos\ERGASIA\ERGASIA\bin\Debug\ERGASIA.pdb
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form1.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Properties.Resources.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.exe
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.pdb
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form4.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form2.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form3.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form5.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form6.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form7.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form8.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form9.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form10.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.msg.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.EnterForm.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.FormaErgazomenou.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Fwtismos.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Skoupa.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Kados.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Epikoinwnia.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.HelpPelath.resources
+C:\Users\User\source\repos\ERGASIA\ERGASIA\obj\Debug\ERGASIA.HelpErgazomenou.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\bin\Debug\ERGASIA.exe.config
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\bin\Debug\ERGASIA.exe
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\bin\Debug\ERGASIA.pdb
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.EnterForm.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Epikoinwnia.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form1.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form10.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form2.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form3.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form4.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form5.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form6.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form7.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form8.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form9.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.FormaErgazomenou.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Fwtismos.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.HelpErgazomenou.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.HelpPelath.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Kados.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.msg.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Properties.Resources.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Skoupa.resources
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.exe
+C:\Users\User\Desktop\ΑΡΧΕΙΑ ΣΧΟΛΗΣ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.pdb
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\bin\Debug\ERGASIA.exe.config
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\bin\Debug\ERGASIA.exe
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\bin\Debug\ERGASIA.pdb
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.csprojAssemblyReference.cache
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.EnterForm.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Epikoinwnia.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form1.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form10.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form2.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form3.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form4.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form5.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form6.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form7.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form8.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Form9.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.FormaErgazomenou.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Fwtismos.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.HelpErgazomenou.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.HelpPelath.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Kados.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.msg.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Properties.Resources.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.Skoupa.resources
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.csproj.GenerateResource.cache
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.exe
+D:\ΑΡΧΕΙΑ ΜΑΘΗΜΑΤΩΝ\5ο Εξάμηνο\ΑΛΛΗΛΕΠΙΔΡΑΣΗ ΑΝΘΡΩΠΟΥ-ΥΠΟΛΟΓΙΣΤΗ\Αλληλεπίδραση Ανθρώπου και Υπολογιστή  - Απαλακτική Εργασία\ERGASIA\ERGASIA\obj\Debug\ERGASIA.pdb
